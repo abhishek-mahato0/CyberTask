@@ -35,8 +35,8 @@ function App() {
           initial={{ opacity: 0.0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{
-            delay: 0.3,
-            duration: 0.8,
+            delay: 0.2,
+            duration: 0.5,
             ease: "easeInOut",
           }}
           className="w-[50%] text-white flex items-center justify-center px-10"
@@ -64,8 +64,8 @@ function App() {
             initial={{ opacity: 0.0, y: 40 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{
-              delay: 0.3,
-              duration: 0.8,
+              delay: 0.2,
+              duration: 0.5,
               ease: "easeInOut",
             }}
             style={{
