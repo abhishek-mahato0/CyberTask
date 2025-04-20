@@ -3,10 +3,10 @@ import Button from "../Button";
 
 const links = [
   { name: "Home", href: "/" },
-  { name: "About", href: "/about" },
-  { name: "Services", href: "/services" },
-  { name: "Blog", href: "/blog" },
-  { name: "Contact", href: "/contact" },
+  { name: "About", href: "/" },
+  { name: "Services", href: "/" },
+  { name: "Blog", href: "/" },
+  { name: "Contact", href: "/" },
 ];
 
 export default function index() {
